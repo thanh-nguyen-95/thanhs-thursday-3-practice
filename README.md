@@ -37,7 +37,7 @@ Hãy sửa hàm `transformProductVariantsToCustomProductsMap()` để thỏa mã
 
 ```bash
 # Clone repo
-git clone https://github.com/thanh-nguyen-95/thanhs-thurday-3-practice
+git clone https://github.com/thanh-nguyen-95/thanhs-thursday-3-practice 
 cd thanhs-thursday-3-practice
 
 # Install packages
