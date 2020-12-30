@@ -49,3 +49,25 @@ npm run dev
 # Test
 npm run test
 ```
+
+## Hướng dẫn submit
+
+
+1. Tạo & checkout qua branch mới
+
+```sh
+git checkout -b features/ten-cua-ban
+```
+
+2. Code và pass mọi test đặt ra
+
+3. Push nhánh lên github
+
+```sh
+git push -u origin features/ten-cua-ban
+```
+
+4. Tạo pull request khi đã hoàn thành
+
+[node]: https://nodejs.org/
+[git]: https://git-scm.com/
